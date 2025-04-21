@@ -48,7 +48,7 @@ Este projeto foi desenvolvido como parte de um desafio técnico para automatizar
 
 ## 👤 Autor
 
-Desenvolvido por [Seu Nome Aqui] para avaliação técnica de automação de testes.
+Desenvolvido por Vitória Eloisa dos Reis para avaliação técnica de automação de testes.
 
 ---
 
