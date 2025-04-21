@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scenarios>
+	<Feature Path="Subtracao.feature.feature" />
+	<Feature Path="soma.feature.feature" />
+	<Feature Path="Multiplicacao.feature.feature" />
+	<Feature Path="Divisao.feature.feature" />
+</Scenarios>
